@@ -39,7 +39,7 @@ control 'VMCH-70-000010' do
     vms = powercli_command("Get-VM -Name #{vmName} | Sort-Object Name | Select -ExpandProperty Name").stdout.gsub("\r\n", "\n").split("\n")
   end
   unless allvms == false
-    vms = powercli_command('Get-VM | Sort-Object Name | Select -ExpandProperty Name').stdout.gsub("\r\n", "\n").split("\n")
+    vms = powercli_command('Get-VM | Where-Object { $_.Folder -notmatch "vCLS" } | Sort-Object Name | Select -ExpandProperty Name').stdout.gsub("\r\n", "\n").split("\n")
   end
 
   if !vms.empty?
