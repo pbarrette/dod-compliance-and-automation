@@ -51,11 +51,11 @@ control 'VMCH-70-000009' do
       command = "(Get-VM -Name '#{vm}' | Get-CDDrive).ExtensionData.connectable.connected"
       results = powercli_command(command).stdout.strip
       describe.one do
-        describe 'Checking the VM for connected CD/DVD drives' do
+        describe "Checking '#{vm}' for connected CD/DVD drives" do
           subject { results }
           it { should cmp 'False' }
         end
-        describe 'Checking the VM for connected CD/DVD drives' do
+        describe "Checking '#{vm}' for connected CD/DVD drives" do
           subject { results }
           it { should be_empty }
         end
