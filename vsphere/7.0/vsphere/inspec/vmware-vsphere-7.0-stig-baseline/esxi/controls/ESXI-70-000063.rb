@@ -68,7 +68,7 @@ control 'ESXI-70-000063' do
     vmhosts.each do |vmhost|
       command = "Get-VMHost -Name #{vmhost} | Get-VirtualPortGroup -Standard | Select-Object -ExpandProperty VlanId"
       describe powercli_command(command) do
-        its('stdout.strip') { should_not match '1' }
+        its('stdout.strip') { should_not cmp '1' }
       end
     end
   else
