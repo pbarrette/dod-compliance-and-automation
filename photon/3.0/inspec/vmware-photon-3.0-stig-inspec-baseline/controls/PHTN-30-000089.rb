@@ -23,8 +23,8 @@ control 'PHTN-30-000089' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-OS-000480-GPOS-00227'
-  tag gid: 'V-PHTN-30-000089'
-  tag rid: 'SV-PHTN-30-000089'
+  tag gid: 'V-256558'
+  tag rid: 'SV-256558r887348_rule'
   tag stig_id: 'PHTN-30-000089'
   tag cci: ['CCI-000366']
   tag nist: ['CM-6 b']

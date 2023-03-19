@@ -30,8 +30,8 @@ control 'PHTN-30-000055' do
   impact 0.3
   tag severity: 'low'
   tag gtitle: 'SRG-OS-000341-GPOS-00132'
-  tag gid: 'V-PHTN-30-000055'
-  tag rid: 'SV-PHTN-30-000055'
+  tag gid: 'V-256527'
+  tag rid: 'SV-256527r887255_rule'
   tag stig_id: 'PHTN-30-000055'
   tag cci: ['CCI-001849']
   tag nist: ['AU-4']

@@ -21,8 +21,8 @@ control 'PHTN-30-000027' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-OS-000075-GPOS-00043'
-  tag gid: 'V-PHTN-30-000027'
-  tag rid: 'SV-PHTN-30-000027'
+  tag gid: 'V-256504'
+  tag rid: 'SV-256504r887186_rule'
   tag stig_id: 'PHTN-30-000027'
   tag cci: ['CCI-000198']
   tag nist: ['IA-5 (1) (d)']

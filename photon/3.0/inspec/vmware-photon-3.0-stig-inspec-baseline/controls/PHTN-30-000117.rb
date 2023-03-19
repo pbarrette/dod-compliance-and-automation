@@ -23,8 +23,8 @@ control 'PHTN-30-000117' do
   impact 0.7
   tag severity: 'high'
   tag gtitle: 'SRG-OS-000073-GPOS-00041'
-  tag gid: 'V-PHTN-30-000117'
-  tag rid: 'SV-PHTN-30-000117'
+  tag gid: 'V-256585'
+  tag rid: 'SV-256585r887429_rule'
   tag stig_id: 'PHTN-30-000117'
   tag cci: ['CCI-000196']
   tag nist: ['IA-5 (1) (c)']

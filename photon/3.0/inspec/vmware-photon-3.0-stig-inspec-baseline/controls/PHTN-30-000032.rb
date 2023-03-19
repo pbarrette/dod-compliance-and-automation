@@ -64,8 +64,8 @@ control 'PHTN-30-000032' do
   tag severity: 'medium'
   tag gtitle: 'SRG-OS-000096-GPOS-00050'
   tag satisfies: ['SRG-OS-000114-GPOS-00059']
-  tag gid: 'V-PHTN-30-000032'
-  tag rid: 'SV-PHTN-30-000032'
+  tag gid: 'V-256509'
+  tag rid: 'SV-256509r887201_rule'
   tag stig_id: 'PHTN-30-000032'
   tag cci: ['CCI-000382', 'CCI-000778']
   tag nist: ['CM-7 b', 'IA-3']
