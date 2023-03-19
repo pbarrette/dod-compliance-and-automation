@@ -1,4 +1,4 @@
-control 'VCST-70-000027' do
+control 'VCST-70-000050' do
   title 'Rsyslog must be configured to monitor and ship Security Token Service log files.'
   desc  'The Security Token Service produces a number of logs that must be offloaded from the originating system. This information can then be used for diagnostic, forensics, or other purposes relevant to ensuring the availability and integrity of the hosted application.'
   desc  'rationale', ''
@@ -110,9 +110,9 @@ control 'VCST-70-000027' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000358-WSR-000163'
   tag satisfies: ['SRG-APP-000125-WSR-000071']
-  tag gid: nil
-  tag rid: nil
-  tag stig_id: 'VCST-70-000027'
+  tag gid: 'V-256775'
+  tag rid: 'SV-256775r889295_rule'
+  tag stig_id: 'VCST-70-000050'
   tag cci: ['CCI-001348', 'CCI-001851']
   tag nist: ['AU-4 (1)', 'AU-9 (2)']
 
