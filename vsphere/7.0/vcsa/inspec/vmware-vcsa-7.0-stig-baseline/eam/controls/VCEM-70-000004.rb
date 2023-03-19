@@ -36,8 +36,8 @@ control 'VCEM-70-000004' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000001-WSR-000002'
   tag satisfies: ['SRG-APP-000223-WSR-000011', 'SRG-APP-000439-WSR-000154', 'SRG-APP-000439-WSR-000155']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256676'
+  tag rid: 'SV-256676r888584_rule'
   tag stig_id: 'VCEM-70-000004'
   tag cci: ['CCI-000054', 'CCI-001664', 'CCI-002418']
   tag nist: ['AC-10', 'SC-23 (3)', 'SC-8']

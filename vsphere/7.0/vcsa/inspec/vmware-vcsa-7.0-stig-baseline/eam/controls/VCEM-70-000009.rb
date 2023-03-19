@@ -26,8 +26,8 @@ control 'VCEM-70-000009' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000131-WSR-000073'
   tag satisfies: ['SRG-APP-000141-WSR-000075']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256681'
+  tag rid: 'SV-256681r888599_rule'
   tag stig_id: 'VCEM-70-000009'
   tag cci: ['CCI-000381', 'CCI-001749']
   tag nist: ['CM-5 (3)', 'CM-7 a']

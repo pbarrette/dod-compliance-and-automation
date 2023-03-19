@@ -43,8 +43,8 @@ control 'VCEM-70-000011' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000141-WSR-000075'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256683'
+  tag rid: 'SV-256683r888605_rule'
   tag stig_id: 'VCEM-70-000011'
   tag cci: ['CCI-000381']
   tag nist: ['CM-7 a']

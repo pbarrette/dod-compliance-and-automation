@@ -38,8 +38,8 @@ control 'VCLD-70-000002' do
   tag severity: 'low'
   tag gtitle: 'SRG-APP-000014-WSR-000006'
   tag satisfies: ['SRG-APP-000416-WSR-000118', 'SRG-APP-000439-WSR-000188']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256646'
+  tag rid: 'SV-256646r888460_rule'
   tag stig_id: 'VCLD-70-000002'
   tag cci: ['CCI-000068', 'CCI-002418', 'CCI-002450']
   tag nist: ['AC-17 (2)', 'SC-13', 'SC-8']

@@ -281,8 +281,8 @@ control 'VCLD-70-000008' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000125-WSR-000071'
   tag satisfies: ['SRG-APP-000358-WSR-000063', 'SRG-APP-000358-WSR-000163']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256652'
+  tag rid: 'SV-256652r888478_rule'
   tag stig_id: 'VCLD-70-000008'
   tag cci: ['CCI-001348', 'CCI-001851']
   tag nist: ['AU-4 (1)', 'AU-9 (2)']

@@ -31,8 +31,8 @@ control 'VCLD-70-000005' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000089-WSR-000047'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256649'
+  tag rid: 'SV-256649r888469_rule'
   tag stig_id: 'VCLD-70-000005'
   tag cci: ['CCI-000169']
   tag nist: ['AU-12 a']

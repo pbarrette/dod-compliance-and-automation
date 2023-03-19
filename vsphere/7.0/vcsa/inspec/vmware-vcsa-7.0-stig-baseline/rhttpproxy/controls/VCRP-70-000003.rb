@@ -30,8 +30,8 @@ control 'VCRP-70-000003' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000014-WSR-000006'
   tag satisfies: ['SRG-APP-000179-WSR-000110', 'SRG-APP-000179-WSR-000111', 'SRG-APP-000416-WSR-000118', 'SRG-APP-000439-WSR-000188']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256739'
+  tag rid: 'SV-256739r889155_rule'
   tag stig_id: 'VCRP-70-000003'
   tag cci: ['CCI-000068', 'CCI-000803', 'CCI-002418', 'CCI-002450']
   tag nist: ['AC-17 (2)', 'IA-7', 'SC-13', 'SC-8']

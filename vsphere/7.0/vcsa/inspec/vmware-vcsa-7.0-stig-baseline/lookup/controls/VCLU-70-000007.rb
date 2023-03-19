@@ -25,8 +25,8 @@ control 'VCLU-70-000007' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000118-WSR-000068'
   tag satisfies: ['SRG-APP-000119-WSR-000069', 'SRG-APP-000120-WSR-000070']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256712'
+  tag rid: 'SV-256712r888727_rule'
   tag stig_id: 'VCLU-70-000007'
   tag cci: ['CCI-000162', 'CCI-000163', 'CCI-000164']
   tag nist: ['AU-9']

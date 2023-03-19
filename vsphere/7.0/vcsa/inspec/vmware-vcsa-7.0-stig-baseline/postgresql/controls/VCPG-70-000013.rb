@@ -29,8 +29,8 @@ control 'VCPG-70-000013' do
   tag severity: 'high'
   tag gtitle: 'SRG-APP-000179-DB-000114'
   tag satisfies: ['SRG-APP-000514-DB-000381', 'SRG-APP-000514-DB-000382', 'SRG-APP-000514-DB-000383']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256603'
+  tag rid: 'SV-256603r887595_rule'
   tag stig_id: 'VCPG-70-000013'
   tag cci: ['CCI-000803', 'CCI-002450']
   tag nist: ['IA-7', 'SC-13']

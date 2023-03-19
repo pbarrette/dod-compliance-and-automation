@@ -31,8 +31,8 @@ control 'VCPG-70-000007' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000133-DB-000362'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256597'
+  tag rid: 'SV-256597r887577_rule'
   tag stig_id: 'VCPG-70-000007'
   tag cci: ['CCI-001499']
   tag nist: ['CM-5 (6)']

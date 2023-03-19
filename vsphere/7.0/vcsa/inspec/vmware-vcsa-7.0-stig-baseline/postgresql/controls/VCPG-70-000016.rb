@@ -28,8 +28,8 @@ control 'VCPG-70-000016' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000266-DB-000162'
   tag satisfies: ['SRG-APP-000267-DB-000163']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256606'
+  tag rid: 'SV-256606r887604_rule'
   tag stig_id: 'VCPG-70-000016'
   tag cci: ['CCI-001312', 'CCI-001314']
   tag nist: ['SI-11 a', 'SI-11 b']

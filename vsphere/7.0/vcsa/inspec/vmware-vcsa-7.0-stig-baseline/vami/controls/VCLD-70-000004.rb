@@ -48,8 +48,8 @@ control 'VCLD-70-000004' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000016-WSR-000005'
   tag satisfies: ['SRG-APP-000093-WSR-000053']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256648'
+  tag rid: 'SV-256648r888466_rule'
   tag stig_id: 'VCLD-70-000004'
   tag cci: ['CCI-000067', 'CCI-001462']
   tag nist: ['AC-17 (1)', 'AU-14 (2)']

@@ -43,8 +43,8 @@ control 'VCPF-70-000013' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000141-WSR-000083'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256623'
+  tag rid: 'SV-256623r888360_rule'
   tag stig_id: 'VCPF-70-000013'
   tag cci: ['CCI-000381']
   tag nist: ['CM-7 a']

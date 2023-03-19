@@ -30,8 +30,8 @@ control 'VCPG-70-000011' do
   tag severity: 'high'
   tag gtitle: 'SRG-APP-000172-DB-000075'
   tag satisfies: ['SRG-APP-000442-DB-000379']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256601'
+  tag rid: 'SV-256601r887589_rule'
   tag stig_id: 'VCPG-70-000011'
   tag cci: ['CCI-000197', 'CCI-002422']
   tag nist: ['IA-5 (1) (c)', 'SC-8 (2)']

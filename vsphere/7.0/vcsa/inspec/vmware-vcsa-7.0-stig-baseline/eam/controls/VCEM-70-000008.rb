@@ -14,8 +14,8 @@ control 'VCEM-70-000008' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000131-WSR-000051'
   tag satisfies: ['SRG-APP-000357-WSR-000150']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256680'
+  tag rid: 'SV-256680r888596_rule'
   tag stig_id: 'VCEM-70-000008'
   tag cci: ['CCI-001749', 'CCI-001849']
   tag nist: ['AU-4', 'CM-5 (3)']

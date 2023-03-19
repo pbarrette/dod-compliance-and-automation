@@ -22,8 +22,8 @@ control 'VCPF-70-000017' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000211-WSR-000030'
   tag satisfies: ['SRG-APP-000380-WSR-000072']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256627'
+  tag rid: 'SV-256627r888372_rule'
   tag stig_id: 'VCPF-70-000017'
   tag cci: ['CCI-001082', 'CCI-001813']
   tag nist: ['CM-5 (1)', 'SC-2']

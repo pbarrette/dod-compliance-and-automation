@@ -36,8 +36,8 @@ control 'VCST-70-000030' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000439-WSR-000155'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256773'
+  tag rid: 'SV-256773r889289_rule'
   tag stig_id: 'VCST-70-000030'
   tag cci: ['CCI-002418']
   tag nist: ['SC-8']

@@ -34,8 +34,8 @@ control 'VCUI-70-000004' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000001-WSR-000002'
   tag satisfies: ['SRG-APP-000439-WSR-000154']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256781'
+  tag rid: 'SV-256781r889342_rule'
   tag stig_id: 'VCUI-70-000004'
   tag cci: ['CCI-000054', 'CCI-002418']
   tag nist: ['AC-10', 'SC-8']

@@ -21,8 +21,8 @@ control 'VCEM-70-000007' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000119-WSR-000069'
   tag satisfies: ['SRG-APP-000120-WSR-000070']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256679'
+  tag rid: 'SV-256679r888593_rule'
   tag stig_id: 'VCEM-70-000007'
   tag cci: ['CCI-000163', 'CCI-000164']
   tag nist: ['AU-9']

@@ -31,8 +31,8 @@ control 'VCPG-70-000005' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000118-DB-000059'
   tag satisfies: ['SRG-APP-000119-DB-000060', 'SRG-APP-000120-DB-000061']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256595'
+  tag rid: 'SV-256595r887571_rule'
   tag stig_id: 'VCPG-70-000005'
   tag cci: ['CCI-000162', 'CCI-000163', 'CCI-000164']
   tag nist: ['AU-9']

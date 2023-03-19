@@ -40,8 +40,8 @@ control 'VCPF-70-000004' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000001-WSR-000002'
   tag satisfies: ['SRG-APP-000439-WSR-000154']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256614'
+  tag rid: 'SV-256614r888333_rule'
   tag stig_id: 'VCPF-70-000004'
   tag cci: ['CCI-000054', 'CCI-002418']
   tag nist: ['AC-10', 'SC-8']

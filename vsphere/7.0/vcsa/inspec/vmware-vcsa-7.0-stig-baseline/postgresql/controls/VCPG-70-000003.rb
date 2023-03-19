@@ -21,8 +21,8 @@ control 'VCPG-70-000003' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000090-DB-000065'
   tag satisfies: ['SRG-APP-000121-DB-000202', 'SRG-APP-000122-DB-000203', 'SRG-APP-000123-DB-000204', 'SRG-APP-000380-DB-000360']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256593'
+  tag rid: 'SV-256593r887565_rule'
   tag stig_id: 'VCPG-70-000003'
   tag cci: ['CCI-000171', 'CCI-001493', 'CCI-001494', 'CCI-001495', 'CCI-001813']
   tag nist: ['AU-12 b', 'AU-9', 'CM-5 (1)']

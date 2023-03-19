@@ -31,8 +31,8 @@ control 'VCST-70-000019' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000246-WSR-000149'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256763'
+  tag rid: 'SV-256763r889259_rule'
   tag stig_id: 'VCST-70-000019'
   tag cci: ['CCI-001094']
   tag nist: ['SC-5 (1)']

@@ -44,8 +44,8 @@ control 'VCLD-70-000024' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000439-WSR-000156'
   tag satisfies: ['SRG-APP-000442-WSR-000182']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256668'
+  tag rid: 'SV-256668r888526_rule'
   tag stig_id: 'VCLD-70-000024'
   tag cci: ['CCI-002418', 'CCI-002422']
   tag nist: ['SC-8', 'SC-8 (2)']

@@ -59,8 +59,8 @@ control 'VCLU-70-000028' do
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000358-WSR-000163'
   tag satisfies: ['SRG-APP-000108-WSR-000166', 'SRG-APP-000125-WSR-000071']
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256733'
+  tag rid: 'SV-256733r888790_rule'
   tag stig_id: 'VCLU-70-000028'
   tag cci: ['CCI-000139', 'CCI-001348', 'CCI-001851']
   tag nist: ['AU-4 (1)', 'AU-5 a', 'AU-9 (2)']

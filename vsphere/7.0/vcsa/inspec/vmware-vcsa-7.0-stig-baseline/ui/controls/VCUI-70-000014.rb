@@ -29,8 +29,8 @@ control 'VCUI-70-000014' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000141-WSR-000085'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256791'
+  tag rid: 'SV-256791r889372_rule'
   tag stig_id: 'VCUI-70-000014'
   tag cci: ['CCI-000381']
   tag nist: ['CM-7 a']

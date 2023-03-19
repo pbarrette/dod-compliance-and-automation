@@ -43,8 +43,8 @@ control 'VCRP-70-000006' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000315-WSR-000003'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256742'
+  tag rid: 'SV-256742r889164_rule'
   tag stig_id: 'VCRP-70-000006'
   tag cci: ['CCI-002314']
   tag nist: ['AC-17 (1)']

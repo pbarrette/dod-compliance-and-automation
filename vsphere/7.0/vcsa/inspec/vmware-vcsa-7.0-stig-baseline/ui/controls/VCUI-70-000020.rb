@@ -31,8 +31,8 @@ control 'VCUI-70-000020' do
   impact 0.5
   tag severity: 'medium'
   tag gtitle: 'SRG-APP-000246-WSR-000149'
-  tag gid: nil
-  tag rid: nil
+  tag gid: 'V-256797'
+  tag rid: 'SV-256797r889390_rule'
   tag stig_id: 'VCUI-70-000020'
   tag cci: ['CCI-001094']
   tag nist: ['SC-5 (1)']
